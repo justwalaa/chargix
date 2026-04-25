@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454386053716",
+    "project_id": "chargix-d449e",
+    "storage_bucket": "chargix-d449e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454386053716:android:ad50d4680657155d6db3c1",
+        "android_client_info": {
+          "package_name": "walaa.chargix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKpH_r0UGilDYQQhIwdUvVf7MvUcoY-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
